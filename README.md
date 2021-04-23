@@ -6,7 +6,7 @@
   Projeto apresentado como desafio final do Bootcamp da Rocketseat (https://rocketseat.com.br/)
 </h3>
 
-<img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/app01.jpeg" width="287"><img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/app02.jpeg" width="287"><img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/app03.jpeg" width="287">
+<img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/app01.jpeg" width="286"><img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/app02.jpeg" width="286"><img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/app03.jpeg" width="286">
 
 <img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/login.PNG">
 <img src="https://github.com/cleberbonifacio/meet-app/blob/master/assets/addevento.PNG">
